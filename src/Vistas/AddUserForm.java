@@ -1,7 +1,7 @@
 package Vistas;
 
 import Modelo.Conexion;
-import Modelo.TipoDocumentoEnum;
+import Controlador.TipoDocumentoEnum;
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
